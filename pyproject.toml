@@ -1,0 +1,19 @@
+[project]
+name = "draughts_ai"
+version = "0.0.1"
+authors = [
+  { name = "Nathan Kamenchu", email = "kamenchunathan@gmail.com" }
+]
+description = "A simple draughts AI to play against because I'm lonely done in python, rust, haskell and nim"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+
+[project.urls]
+"HomePage" = "https://github.com/kamenchunathan/draughts_ai"
+"Bug Tracker" = "https://github.com/kamenchunathan/draughts_ai/issues"
+
