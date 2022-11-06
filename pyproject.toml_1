@@ -17,3 +17,5 @@ classifiers = [
 "HomePage" = "https://github.com/kamenchunathan/draughts_ai"
 "Bug Tracker" = "https://github.com/kamenchunathan/draughts_ai/issues"
 
+[build-system]
+requires = ["setuptools"]
